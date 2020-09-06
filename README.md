@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello reader!
+
+I am decent at Python and currently learning R on Coursera.
